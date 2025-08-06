@@ -1,1 +1,1 @@
-../../../.gitconfig
+/Users/aonanguan/.gitconfig
